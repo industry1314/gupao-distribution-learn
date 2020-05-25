@@ -4,6 +4,7 @@ import com.gupao.utils.StringUtils;
 import com.gupao.utils.UUIDUtils;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.Socket;
 
